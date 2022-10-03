@@ -1,9 +1,9 @@
 ### Hi there 👋
-🎓  I'm currently studying Computer Science and am in my third year of college.
-💡  Some technologies I enjoy working with include JavaScript, NodeJS, ExpressJS, Core Java and python. Currently trying to get better at system designing.
+🎓  I'm currently studying Computer Science and am in my third year of college.<br>
+💡  Some technologies I enjoy working with include JavaScript, NodeJS, ExpressJS, Core Java and python. Currently trying to get better at system designing.<br>
 
-Practising on Leetcode : https://leetcode.com/Adi_B/
-Sharing Updates on Linkedin: https://www.linkedin.com/in/aditya-bisht-567ba81ba/
+Practising on Leetcode : https://leetcode.com/Adi_B/ <br>
+Sharing Updates on Linkedin: https://www.linkedin.com/in/aditya-bisht-567ba81ba/<br>
 <!--
 **adityabisht02/adityabisht02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
