@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 🎓  I'm currently studying Computer Science and am in my third year of college.<br>
 💡  Some technologies I enjoy working with include JavaScript, NodeJS, ExpressJS, Core Java and python. Currently trying to get better at system designing.<br>
 
