@@ -4,6 +4,9 @@
 
 Practising on Leetcode : https://leetcode.com/Adi_B/ <br>
 Sharing Updates on Linkedin: https://www.linkedin.com/in/aditya-bisht-567ba81ba/<br>
+
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabisht02)](https://github.com/adityabisht02/github-readme-stats)
 <!--
 **adityabisht02/adityabisht02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
