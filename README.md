@@ -8,8 +8,8 @@ Some technologies I work with :
 3. Backend Development : Nodejs, Expressjs, MongoDB, MySQL, Firebase and currently studying AWS services.
 4. Mobile Development: Native Android Development using Java.
 
-I practice DSA on Leetcode : https://leetcode.com/Adi_B/ <br>
-I share updates on LinkedIn : https://www.linkedin.com/in/aditya-bisht-567ba81ba/<br>
+Leetcode profile: https://leetcode.com/Adi_B/ <br>
+LinkedIn : https://www.linkedin.com/in/aditya-bisht-567ba81ba/<br>
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabisht02)](https://github.com/adityabisht02/github-readme-stats)
