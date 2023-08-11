@@ -1,6 +1,7 @@
 ### Hey there 👋
-🎓  I am currently studying Computer Science and am in my third year of college.<br>
+🎓  I am currently studying Computer Science and am in my final year of college.<br>
 💡   I am Currently trying to get better at low and high level system designing.<br>
+📫 I am a 3 time MLH Hackathon winner 
 
 Some technologies I work with :
 1. Languages: Java, Javascript, Python, C.
